@@ -1,0 +1,24 @@
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Tech Orbit</title>
+  <desc id="desc">Orbit-style skills map showing frontend, backend and web3 competencies.</desc>
+  <rect width="900" height="420" rx="20" fill="#020617"/>
+  <g transform="translate(450 210)">
+    <circle r="60" fill="#1d4ed8"/>
+    <text y="8" text-anchor="middle" font-size="22" font-family="Inter, Segoe UI, Arial" fill="#E2E8F0" font-weight="700">Denys</text>
+
+    <circle r="120" fill="none" stroke="#334155" stroke-dasharray="8 10"/>
+    <circle r="170" fill="none" stroke="#334155" stroke-dasharray="8 10"/>
+
+    <g font-family="Inter, Segoe UI, Arial" font-size="16" fill="#E2E8F0" text-anchor="middle">
+      <circle cx="0" cy="-120" r="34" fill="#0ea5e9"/><text x="0" y="-116">React</text><text x="0" y="-98">Next.js</text>
+      <circle cx="104" cy="60" r="34" fill="#14b8a6"/><text x="104" y="64">Node.js</text>
+      <circle cx="-104" cy="60" r="34" fill="#8b5cf6"/><text x="-104" y="64">SSR</text>
+
+      <circle cx="0" cy="-170" r="34" fill="#6366f1"/><text x="0" y="-166">Micro FE</text>
+      <circle cx="161" cy="55" r="34" fill="#10b981"/><text x="161" y="59">AWS</text>
+      <circle cx="-161" cy="55" r="34" fill="#f59e0b"/><text x="-161" y="59">Web3</text>
+      <circle cx="100" cy="-137" r="34" fill="#ef4444"/><text x="100" y="-133">AI</text><text x="100" y="-115">Agents</text>
+      <circle cx="-100" cy="-137" r="34" fill="#22c55e"/><text x="-100" y="-133">Lead</text><text x="-100" y="-115">Mentor</text>
+    </g>
+  </g>
+</svg>

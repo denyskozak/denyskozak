@@ -1,0 +1,32 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Denys Kozak — Frontend Lead & Full-stack Developer</title>
+  <desc id="desc">Gradient banner with role, location and key highlights</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="55%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)" rx="24"/>
+  <circle cx="1020" cy="80" r="120" fill="#ffffff" opacity="0.08"/>
+  <circle cx="1120" cy="230" r="170" fill="#ffffff" opacity="0.08"/>
+
+  <text x="60" y="92" font-size="44" font-family="Inter, Segoe UI, Arial, sans-serif" fill="#F8FAFC" font-weight="700">Denys Kozak</text>
+  <text x="60" y="132" font-size="28" font-family="Inter, Segoe UI, Arial, sans-serif" fill="#E2E8F0">Frontend Lead @ AUTODOC • Full-stack Developer</text>
+  <text x="60" y="168" font-size="22" font-family="Inter, Segoe UI, Arial, sans-serif" fill="#BAE6FD">📍 Nazaré, Leiria, Portugal</text>
+
+  <rect x="60" y="204" width="230" height="44" rx="22" fill="url(#chip)"/>
+  <text x="92" y="233" font-size="20" font-family="Inter, Segoe UI, Arial, sans-serif" fill="#0B1020" font-weight="700">12+ years in web</text>
+
+  <rect x="308" y="204" width="312" height="44" rx="22" fill="url(#chip)"/>
+  <text x="340" y="233" font-size="20" font-family="Inter, Segoe UI, Arial, sans-serif" fill="#0B1020" font-weight="700">Micro-frontends at 10M+ scale</text>
+
+  <rect x="638" y="204" width="210" height="44" rx="22" fill="url(#chip)"/>
+  <text x="670" y="233" font-size="20" font-family="Inter, Segoe UI, Arial, sans-serif" fill="#0B1020" font-weight="700">Mentor & Lead</text>
+</svg>
