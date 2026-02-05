@@ -1,6 +1,6 @@
 <div align="center">
 
-![Denys Kozak Hero](assets/readme/hero.svg)
+![Denys Kozak Hero](https://raw.githubusercontent.com/denyskozak/denyskozak/refs/heads/main/assets/readme/hero.svg)
 
 # ✨ Denys Kozak
 ### Frontend Lead @ AUTODOC • Full-stack Developer
