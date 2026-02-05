@@ -40,14 +40,6 @@ I design, build and maintain web/mobile products with strong focus on:
 
 ---
 
-## 🛰️ Skill orbit (non-classic view)
-
-Instead of a plain list, here’s a visual “orbit” of how I combine competencies in real projects:
-
-![Tech Orbit](assets/readme/skills-orbit.svg)
-
----
-
 ## 🏆 Experience snapshot
 
 | Period | Role | Company | Highlights |
