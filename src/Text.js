@@ -38,6 +38,7 @@ export function RevealText({
                              className,
                              delay = 0.05,
                              stagger = 0.06,
+
                            }) {
   const words = text.split(" ");
 
