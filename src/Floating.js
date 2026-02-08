@@ -4,7 +4,7 @@ export function Floating({ children, className }) {
   return (
     <motion.div
       className={className}
-      animate={{ y: [0, -12, 0] }}
+      animate={{ y: [0, -20, 0] }}
       transition={{
         duration: 2.4,
         ease: "easeInOut",
