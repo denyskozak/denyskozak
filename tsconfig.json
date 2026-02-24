@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./test-1/React-Personal-Portfolio/Ashif",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}
