@@ -14,7 +14,6 @@
 ---
 
 ## 👋 About me
-# React + Vite
 
 I’m a growth-oriented engineer with **12+ years** of hands-on experience across frontend and full-stack development.
 I design, build and maintain web/mobile products with strong focus on:
