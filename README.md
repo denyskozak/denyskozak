@@ -45,19 +45,6 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 ---
 
-## 🏆 Experience snapshot
-
-| Period | Role | Company | Highlights |
-|---|---|---|---|
-| Jan 2024 — Present | Engineering Front-end Lead | **AUTODOC** (Portugal) | 🧩 Shipped micro-frontends for European e-commerce, improved DX, led and mentored teams |
-| Jun 2021 — Nov 2023 | Senior Frontend Developer | **Concentrix Tigerspike** (London) | 🛠️ Built UI library for ~120 developers, improved wallet UX and increased deposits **1.5x** |
-| Jan 2018 — Dec 2020 | Senior/Lead Frontend Developer | **Codemotion Ninjas** (Kyiv) | 📈 Built startup frontend from scratch, improved conversion up to **x3**, led 3-dev team |
-| Nov 2015 — Jan 2018 | Middle/Lead Frontend Developer | **IdeaSoft.io** (Kharkiv) | 🌉 Delivered Stellar explorer/bridge interfaces, improved delivery flow, mentoring & leadership |
-| Oct 2013 — Oct 2015 | Junior/Middle Frontend Developer | **Jelvix** (Kharkiv) | ⚡ Delivered custom SSR for Angular.js, improved UI/UX and SEO |
-| Jun 2013 — Sep 2013 | Trainee | **NIX** (Kharkiv) | 📚 Built fundamentals: algorithms, data structures, DBs, OS, networking, security |
-
----
-
 ## 🌍 Domain experience
 
 - 🛒 E-commerce
