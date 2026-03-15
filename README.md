@@ -19,12 +19,6 @@ I’m a growth-oriented engineer with **12+ years** of hands-on experience acros
 I design, build and maintain web/mobile products with strong focus on:
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-- 🚀 **Performance + UX** that impacts business metrics
-- 🧩 **SSR & Micro-frontends** in large-scale environments
-- 🤝 **Leadership & mentoring** for high-output engineering teams
-- 🧠 **System thinking** from UI details to architecture decisions
-  Currently, two official plugins are available:
-
 ---
 
 ## React Compiler
@@ -39,53 +33,6 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 ### 🧪 R&D / Web3 / New stack
 `Move` • `basic Rust` • `Sui` • `Walrus` • `AI-agents` • `Telegram Mini Apps`
-
----
-
-## 🌍 Domain experience
-
-- 🛒 E-commerce
-- 🏥 Med-tech
-- 💳 Fin-tech
-- 🚀 Startups
-- ⛓️ Web3 (bridges, markets, hybrid payroll)
-
----
-
-## 🎯 Principles I ship by
-
-- **User value first**: features should move metrics, not just backlog tickets.
-- **Architecture with intent**: keep it scalable, observable, and maintainable.
-- **Developer experience matters**: better tooling = faster, safer delivery.
-- **Teach while building**: mentorship is part of engineering output.
-
----
-
-## 🧠 Fun, but useful (terminal card)
-
-```bash
-$ whoami
-Denys Kozak
-
-$ current_mission
-"Lead frontend teams and build resilient product architecture"
-
-$ superpowers --list
-- product-minded frontend engineering
-- SSR / micro-frontends at scale
-- team leadership & mentoring
-- pragmatic full-stack delivery
-
-$ next_focus
-"AI-agent integrations + Web3-ready product experiences"
-```
-
----
-
-## 🎓 Education
-
-**National Technical University "Kharkiv Polytechnic Institute"**  
-Bachelor's degree, Computer Science (2012 — 2016)
 
 ---
 
