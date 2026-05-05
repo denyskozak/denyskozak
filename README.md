@@ -22,7 +22,6 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 ### ⚙️ Backend & Platform
 `Node.js` • `Express` • `NestJS` • `gRPC` • `AWS` • `Postgres` • `System Design` • `CI/CD`
-## Expanding the ESLint configuration
 
 ### 🧪 R&D / Web3 / New stack
 `Move` • `basic Rust` • `Sui` • `Walrus` • `AI-agents` • `Telegram Mini Apps`
