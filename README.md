@@ -14,11 +14,8 @@
 
 ---
 
-## React Compiler
-
 ### 🎨 Frontend
 `React` • `TypeScript` • `Next.js` • `Svelte` • `Astro` • `Micro-frontends` • `SEO` • `SSR`
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
 ### ⚙️ Backend & Platform
 `Node.js` • `Express` • `NestJS` • `gRPC` • `AWS` • `Postgres` • `System Design` • `CI/CD`
