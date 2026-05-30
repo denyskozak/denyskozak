@@ -1,10 +1,7 @@
 <div align="center">
 
 # ✨ Denys Kozak
-### Frontend Lead @ AUTODOC • Full-stack Developer
 #### Email: denys.kozak.self@gmail.com
-
-🧭 Building products for **10M+ users**, scaling teams, and shipping interfaces that convert.
 
 [![Years](https://img.shields.io/badge/Experience-12%2B%20years-0ea5e9?style=for-the-badge)](#-about-me)
 [![Role](https://img.shields.io/badge/Current-Frontend%20Lead%20%40%20AUTODOC-1d4ed8?style=for-the-badge)](#-experience-snapshot)
