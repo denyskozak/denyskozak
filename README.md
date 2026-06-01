@@ -1,11 +1,10 @@
 <div align="center">
 
 # ✨ Denys Kozak
-#### Email: denys.kozak.self@gmail.com
+
+### Email: denys.kozak.self@gmail.com
 
 </div>
-
----
 
 ### 🎨 Frontend
 `React` • `TypeScript` • `Next.js` • `Svelte` • `Astro` • `Micro-frontends` • `SEO` • `SSR`
