@@ -13,4 +13,4 @@
 `Node.js` • `Express` • `NestJS` • `gRPC` • `AWS` • `Postgres` • `System Design` • `CI/CD`
 
 ### 🧪 R&D / Web3 / New stack
-`Move` • `basic Rust` • `Sui` • `Walrus` • `AI-agents` • `Telegram Mini Apps`
+`Move` • `Rust` • `Sui` • `Walrus` • `AI-agents` • `Telegram Mini Apps`
